@@ -509,7 +509,7 @@ ul.dropdown-menu li {
 }
 
 .slider {
-  background: url("../images/bg/home-1.jpg") no-repeat;
+  background: url("../images/bg/main.gif") no-repeat;
   background-size: cover;
   background-position: 10% 0%;
   padding: 200px 0 280px 0;
@@ -517,7 +517,7 @@ ul.dropdown-menu li {
 }
 
 .slider .block h1 {
-  font-size: 70px;
+  font-size: 50px;
   line-height: 80px;
   font-weight: 600;
   color: #fff;
@@ -558,12 +558,13 @@ ul.dropdown-menu li {
 
 .bg-about {
   position: absolute;
+  border-radius: 1%;
   content: "";
   left: 0px;
   top: 0px;
-  width: 45%;
+  width: 47%;
   min-height: 650px;
-  background: url("../images/about/home-8.jpg") no-repeat;
+  background: url("../images/about/home-8v2.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -577,7 +578,7 @@ ul.dropdown-menu li {
 
 .about-content h4:before {
   position: absolute;
-  content: "\f576";
+  content: "\f5dc";
   font-family: "Font Awesome 5 Free";
   font-size: 30px;
   position: absolute;
